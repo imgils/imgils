@@ -21,3 +21,5 @@
 </div><br/>
 
 ## Analysis and Systems Development Student From São Paulo, Brasil !
+
+![snake gif](https://github.com/imgils/imgils/blob/output/github-contribution-grid-snake.gif)
